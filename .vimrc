@@ -13,7 +13,6 @@ set title
 set autoindent
 
 set background=dark
-colorscheme gruvbox
 
 noremap æ l
 noremap l k
